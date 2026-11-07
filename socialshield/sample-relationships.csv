@@ -1,0 +1,14 @@
+from,to,type
+alex_runner,sarah_triathlon,follows
+sarah_triathlon,marcus_coach,follows
+marcus_coach,olympic_dietitian,follows
+olympic_dietitian,sports_physio,follows
+alex_runner,emma_fitness,mutual
+emma_fitness,david_yogi,follows
+david_yogi,zen_studio,follows
+sarah_triathlon,emma_fitness,follows
+marcus_coach,sarah_triathlon,follows
+alex_runner,trail_blazers_club,follows
+trail_blazers_club,mountain_gear,follows
+mountain_gear,alpine_adventures,follows
+

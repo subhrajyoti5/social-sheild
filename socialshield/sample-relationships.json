@@ -1,0 +1,11 @@
+[
+  { "from": "alex_runner", "to": "sarah_triathlon", "type": "follows" },
+  { "from": "sarah_triathlon", "to": "marcus_coach", "type": "follows" },
+  { "from": "marcus_coach", "to": "olympic_dietitian", "type": "follows" },
+  { "from": "alex_runner", "to": "emma_fitness", "type": "mutual" },
+  { "from": "emma_fitness", "to": "david_yogi", "type": "follows" },
+  { "from": "david_yogi", "to": "zen_studio", "type": "follows" },
+  { "from": "sarah_triathlon", "to": "emma_fitness", "type": "follows" },
+  { "from": "marcus_coach", "to": "sarah_triathlon", "type": "follows" }
+]
+
